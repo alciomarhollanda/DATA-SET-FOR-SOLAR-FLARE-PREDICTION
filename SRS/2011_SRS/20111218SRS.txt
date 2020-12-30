@@ -1,0 +1,24 @@
+:Product: 1218SRS.txt
+:Issued: 2011 Dec 18 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 352 Issued at 0030Z on 18 Dec 2011
+Report compiled from data received at SWO on 17 Dec
+I.  Regions with Sunspots.  Locations Valid at 17/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1374 S18W50   352  0100 Cao  03   04 Beta
+1375 N08W57   358  0030 Hsx  01   01 Alpha
+1376 N21W04   306  0000 Axx  00   01 Alpha
+1377 N12E03   298  0050 Dso  08   09 Beta
+1378 S17W21   323  0010 Bxo  04   04 Beta
+1379 S29W22   324  0030 Cro  03   05 Beta
+1380 S20E70   232  0030 Hrx  01   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 17/2400Z Dec
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 18 Dec to 20 Dec
+Nmbr Lat    Lo
+1358 N20    210
+1361 N18    187

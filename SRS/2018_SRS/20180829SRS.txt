@@ -1,0 +1,17 @@
+:Product: 0829SRS.txt
+:Issued: 2018 Aug 29 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 241 Issued at 0030Z on 29 Aug 2018
+Report compiled from data received at SWO on 28 Aug
+I.  Regions with Sunspots.  Locations Valid at 28/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2720 N07W83   139  0010 Axx  04   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 28/2400Z Aug
+Nmbr  Location  Lo
+2719  S06W81   138
+II. Regions Due to Return 29 Aug to 31 Aug
+Nmbr Lat    Lo
+None

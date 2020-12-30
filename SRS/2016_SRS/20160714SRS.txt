@@ -1,0 +1,20 @@
+:Product: 0714SRS.txt
+:Issued: 2016 Jul 14 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 196 Issued at 0030Z on 14 Jul 2016
+Report compiled from data received at SWO on 13 Jul
+I.  Regions with Sunspots.  Locations Valid at 13/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2562 S06W09   229  0030 Hrx  04   05 Alpha
+2563 N19W09   228  0010 Bxo  06   02 Beta
+2564 N09E10   210  0030 Cro  03   06 Beta
+2565 N04E44   176  0170 Hax  04   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 13/2400Z Jul
+Nmbr  Location  Lo
+2560  S08W56   276
+II. Regions Due to Return 14 Jul to 16 Jul
+Nmbr Lat    Lo
+None

@@ -1,0 +1,17 @@
+:Product: 1011SRS.txt
+:Issued: 2010 Oct 11 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 284 Issued at 0030Z on 11 Oct 2010
+Report compiled from data received at SWO on 10 Oct
+I.  Regions with Sunspots.  Locations Valid at 10/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1112 S18E54   202  0050 Hrx  02   03 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 10/2400Z Oct
+Nmbr  Location  Lo
+1111  N24W81   337
+II. Regions Due to Return 11 Oct to 13 Oct
+Nmbr Lat    Lo
+1108 S31    140

@@ -1,0 +1,25 @@
+:Product: 0518SRS.txt
+:Issued: 2015 May 18 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 138 Issued at 0030Z on 18 May 2015
+Report compiled from data received at SWO on 17 May
+I.  Regions with Sunspots.  Locations Valid at 17/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2339 N12W80   125  0240 Dso  09   05 Beta
+2341 S19W58   103  0060 Hsx  02   02 Alpha
+2342 N17W51   096  0080 Hsx  02   01 Alpha
+2344 S09W26   071  0020 Hax  01   02 Alpha
+2346 S07W13   058  0010 Bxo  04   04 Beta
+2348 S10E21   024  0100 Hsx  02   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 17/2400Z May
+Nmbr  Location  Lo
+2340  S08W68   113
+2343  N09W54   099
+2345  N11W76   121
+2347  N04W16   061
+II. Regions Due to Return 18 May to 20 May
+Nmbr Lat    Lo
+None

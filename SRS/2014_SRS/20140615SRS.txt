@@ -1,0 +1,27 @@
+:Product: 0615SRS.txt
+:Issued: 2014 Jun 15 0050 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 166 Issued at 0030Z on 15 Jun 2014
+Report compiled from data received at SWO on 14 Jun
+I.  Regions with Sunspots.  Locations Valid at 14/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2080 S11W91   264  0350 Dki  08   08 Beta-Gamma-Delta
+2082 N15W80   253  0140 Cao  04   02 Beta
+2085 S19W84   257  0200 Eai  15   13 Beta-Gamma
+2087 S18E16   155  0180 Dai  08   24 Beta-Gamma
+2088 S09W74   247  0020 Hrx  04   01 Alpha
+2089 N18W25   198  0100 Dai  08   10 Beta-Gamma
+2090 N24E30   143  0120 Cso  11   03 Beta
+2091 S08W29   202  0000 Axx  01   02 Alpha
+2092 S19E33   140  0010 Bxo  05   06 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 14/2400Z Jun
+Nmbr  Location  Lo
+2086  N01W47   220
+II. Regions Due to Return 15 Jun to 17 Jun
+Nmbr Lat    Lo
+2073 S13    080
+2076 S20    071
+2075 S09    045

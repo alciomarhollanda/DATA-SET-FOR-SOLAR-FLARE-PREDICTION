@@ -1,0 +1,21 @@
+:Product: 0905SRS.txt
+:Issued: 2017 Sep 05 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 248 Issued at 0030Z on 05 Sep 2017
+Report compiled from data received at SWO on 04 Sep
+I.  Regions with Sunspots.  Locations Valid at 04/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2673 S08W16   119  0680 Dkc  07   28 Beta-Gamma-Delta
+2674 N14W01   104  0740 Fhi  18   34 Beta
+2675 S02W76   179  0010 Bxo  05   04 Beta
+2676 S09W65   168  0030 Cro  08   04 Beta
+2677 N19E51   052  0010 Axx  01   02 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 04/2400Z Sep
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 05 Sep to 07 Sep
+Nmbr Lat    Lo
+None

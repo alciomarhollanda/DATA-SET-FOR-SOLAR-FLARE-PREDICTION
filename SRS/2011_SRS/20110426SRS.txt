@@ -1,0 +1,20 @@
+:Product: 0426SRS.txt
+:Issued: 2011 Apr 26 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 116 Issued at 0030Z on 26 Apr 2011
+Report compiled from data received at SWO on 25 Apr
+I.  Regions with Sunspots.  Locations Valid at 25/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1193 N16W84   262  0270 Dso  09   08 Beta
+1195 S16W12   190  0400 Ehi  10   25 Beta
+1196 S26E11   168  0010 Bxo  06   04 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 25/2400Z Apr
+Nmbr  Location  Lo
+1197  S16E01   179
+1198  S26W89   268
+II. Regions Due to Return 26 Apr to 28 Apr
+Nmbr Lat    Lo
+1189 N21    052

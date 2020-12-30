@@ -1,0 +1,20 @@
+:Product: 0901SRS.txt
+:Issued: 2015 Sep 01 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 244 Issued at 0030Z on 01 Sep 2015
+Report compiled from data received at SWO on 31 Aug
+I.  Regions with Sunspots.  Locations Valid at 31/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2405 S21W03   086  0000 Axx  00   01 Alpha
+2406 N03E09   074  0020 Cro  05   03 Beta
+2407 N15W62   145  0020 Cro  06   05 Beta
+2408 S12W77   160  0000 Axx  00   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 31/2400Z Aug
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 01 Sep to 03 Sep
+Nmbr Lat    Lo
+None

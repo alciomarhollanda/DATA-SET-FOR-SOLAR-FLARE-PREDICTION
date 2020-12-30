@@ -1,0 +1,20 @@
+:Product: 0304SRS.txt
+:Issued: 2012 Mar 04 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 64 Issued at 0030Z on 04 Mar 2012
+Report compiled from data received at SWO on 03 Mar
+I.  Regions with Sunspots.  Locations Valid at 03/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1423 N17W48   056  0080 Hsx  02   01 Alpha
+1427 N15W31   038  0020 Cro  02   03 Beta
+1428 S17E51   316  0040 Cro  05   04 Beta
+1429 N18E68   299  0290 Dkc  06   04 Beta-Gamma
+IA. H-alpha Plages without Spots.  Locations Valid at 03/2400Z Mar
+Nmbr  Location  Lo
+1426  N11W73   081
+II. Regions Due to Return 04 Mar to 06 Mar
+Nmbr Lat    Lo
+1418 S23    275

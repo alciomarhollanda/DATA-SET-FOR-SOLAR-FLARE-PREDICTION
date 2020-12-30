@@ -1,0 +1,18 @@
+:Product: 0421SRS.txt
+:Issued: 2017 Apr 21 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 111 Issued at 0030Z on 21 Apr 2017
+Report compiled from data received at SWO on 20 Apr
+I.  Regions with Sunspots.  Locations Valid at 20/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2651 N12E44   070  0130 Dao  05   05 Beta
+2652 N13E60   054  0010 Hrx  01   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 20/2400Z Apr
+Nmbr  Location  Lo
+2650  N08W86   200
+II. Regions Due to Return 21 Apr to 23 Apr
+Nmbr Lat    Lo
+None

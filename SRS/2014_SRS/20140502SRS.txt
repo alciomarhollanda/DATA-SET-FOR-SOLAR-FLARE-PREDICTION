@@ -1,0 +1,22 @@
+:Product: 0502SRS.txt
+:Issued: 2014 May 02 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 122 Issued at 0030Z on 02 May 2014
+Report compiled from data received at SWO on 01 May
+I.  Regions with Sunspots.  Locations Valid at 01/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2045 S24W85   120  0030 Hsx  02   01 Alpha
+2047 S18W13   048  0150 Dsc  08   19 Beta-Gamma
+2049 S07E15   020  0430 Ekc  11   18 Beta-Gamma
+2050 N12E17   018  0030 Hax  02   01 Alpha
+2051 S09W22   056  0010 Bxo  03   04 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 01/2400Z May
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 02 May to 04 May
+Nmbr Lat    Lo
+2032 N13    294
+2033 N12    282

@@ -1,0 +1,19 @@
+:Product: 0223SRS.txt
+:Issued: 2012 Feb 23 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 54 Issued at 0030Z on 23 Feb 2012
+Report compiled from data received at SWO on 22 Feb
+I.  Regions with Sunspots.  Locations Valid at 22/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1420 N11W57   196  0030 Hrx  01   01 Alpha
+1422 N15W38   177  0240 Dsi  05   10 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 22/2400Z Feb
+Nmbr  Location  Lo
+1419  N27W58   198
+1421  N14E05   135
+II. Regions Due to Return 23 Feb to 25 Feb
+Nmbr Lat    Lo
+1415 N10    043

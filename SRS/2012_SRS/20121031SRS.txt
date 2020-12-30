@@ -1,0 +1,21 @@
+:Product: 1031SRS.txt
+:Issued: 2012 Oct 31 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 305 Issued at 0030Z on 31 Oct 2012
+Report compiled from data received at SWO on 30 Oct
+I.  Regions with Sunspots.  Locations Valid at 30/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1596 N08W94   157  0060 Hsx  10   01 Alpha
+1598 S11W51   114  0210 Hsx  04   02 Alpha
+1599 S12W23   087  0100 Hsx  02   01 Alpha
+1601 S10W05   068  0000 Axx  00   01 Alpha
+1602 S19E50   012  0030 Hrx  01   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 30/2400Z Oct
+Nmbr  Location  Lo
+1600  N09W68   132
+II. Regions Due to Return 31 Oct to 02 Nov
+Nmbr Lat    Lo
+1586 S13    318

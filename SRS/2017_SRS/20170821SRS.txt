@@ -1,0 +1,18 @@
+:Product: 0821SRS.txt
+:Issued: 2017 Aug 21 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 233 Issued at 0030Z on 21 Aug 2017
+Report compiled from data received at SWO on 20 Aug
+I.  Regions with Sunspots.  Locations Valid at 20/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2671 N12W06   306  0410 Fkc  20   20 Beta-Gamma
+2672 N05E75   225  0120 Dao  05   04 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 20/2400Z Aug
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 21 Aug to 23 Aug
+Nmbr Lat    Lo
+None

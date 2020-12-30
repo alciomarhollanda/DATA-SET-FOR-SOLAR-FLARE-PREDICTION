@@ -1,0 +1,19 @@
+:Product: 0322SRS.txt
+:Issued: 2016 Mar 22 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 82 Issued at 0030Z on 22 Mar 2016
+Report compiled from data received at SWO on 21 Mar
+I.  Regions with Sunspots.  Locations Valid at 21/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2519 N04W89   016  0020 Hsx  01   01 Alpha
+2524 N15E09   278  0200 Eso  12   04 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 21/2400Z Mar
+Nmbr  Location  Lo
+2525  N13W43   330
+II. Regions Due to Return 22 Mar to 24 Mar
+Nmbr Lat    Lo
+2514 N13    184
+2512 N10    174

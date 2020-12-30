@@ -1,0 +1,27 @@
+:Product: 1116SRS.txt
+:Issued: 2013 Nov 16 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 320 Issued at 0030Z on 16 Nov 2013
+Report compiled from data received at SWO on 15 Nov
+I.  Regions with Sunspots.  Locations Valid at 15/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1890 S13W95   171  0010 Axx  02   03 Alpha
+1893 S13W25   101  0240 Dsc  10   24 Beta-Gamma
+1895 S16W02   078  0100 Hsx  05   03 Alpha
+1896 N11E07   069  0130 Hax  02   02 Alpha
+1897 S21E12   064  0360 Ekc  14   84 Beta-Gamma-Delta
+1898 S26W37   113  0010 Bxo  02   04 Beta
+1899 N06E35   039  0600 Dko  09   14 Beta-Gamma
+1900 S19W29   105  0150 Dac  07   24 Beta-Gamma
+1901 S24W57   133  0020 Cro  04   08 Beta
+1902 N19W06   080  0020 Dso  03   06 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 15/2400Z Nov
+Nmbr  Location  Lo
+1892  S05W66   142
+II. Regions Due to Return 16 Nov to 18 Nov
+Nmbr Lat    Lo
+1888 S14    324
+1882 S10    313

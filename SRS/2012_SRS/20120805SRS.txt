@@ -1,0 +1,26 @@
+:Product: 0805SRS.txt
+:Issued: 2012 Aug 05 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 218 Issued at 0030Z on 05 Aug 2012
+Report compiled from data received at SWO on 04 Aug
+I.  Regions with Sunspots.  Locations Valid at 04/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1529 S10W88   221  0030 Hsx  01   01 Alpha
+1530 S18W78   211  0100 Hsx  01   01 Alpha
+1532 S19W53   186  0240 Cso  09   04 Beta
+1535 N18W02   135  0100 Cso  08   10 Beta
+1536 S25W38   171  0030 Cso  13   03 Beta
+1537 N12E23   110  0050 Hsx  02   01 Alpha
+1538 S22E16   117  0220 Eso  11   08 Beta-Gamma
+1539 S22E31   102  0020 Cro  03   03 Beta
+1540 S27E46   087  0090 Cao  07   08 Beta
+1541 S15E50   083  0000 Axx  01   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 04/2400Z Aug
+Nmbr  Location  Lo
+1534  N23W40   173
+II. Regions Due to Return 05 Aug to 07 Aug
+Nmbr Lat    Lo
+None

@@ -1,0 +1,17 @@
+:Product: 0331SRS.txt
+:Issued: 2018 Mar 31 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 90 Issued at 0030Z on 31 Mar 2018
+Report compiled from data received at SWO on 30 Mar
+I.  Regions with Sunspots.  Locations Valid at 30/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2703 S08E60   192  0010 Axx  01   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 30/2400Z Mar
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 31 Mar to 02 Apr
+Nmbr Lat    Lo
+2702 N19    128

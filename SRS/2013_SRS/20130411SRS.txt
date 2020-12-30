@@ -1,0 +1,25 @@
+:Product: 0411SRS.txt
+:Issued: 2013 Apr 11 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 101 Issued at 0030Z on 11 Apr 2013
+Report compiled from data received at SWO on 10 Apr
+I.  Regions with Sunspots.  Locations Valid at 10/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1711 S17W67   156  0360 Cko  05   02 Beta
+1713 N08W88   177  0180 Dai  10   07 Beta
+1714 N13W38   127  0020 Hsx  02   02 Alpha
+1716 S20W37   127  0010 Axx  01   01 Alpha
+1717 S10W01   090  0010 Bxo  03   03 Beta
+1718 N22W19   108  0280 Dkc  09   34 Beta-Gamma
+1719 N10E13   076  0190 Dai  08   17 Beta-Gamma
+1721 S18E35   054  0010 Bxo  04   04 Beta
+1722 S20E44   045  0020 Cso  04   03 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 10/2400Z Apr
+Nmbr  Location  Lo
+1720  N10W48   138
+II. Regions Due to Return 11 Apr to 13 Apr
+Nmbr Lat    Lo
+None

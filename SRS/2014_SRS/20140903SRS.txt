@@ -1,0 +1,22 @@
+:Product: 0903SRS.txt
+:Issued: 2014 Sep 03 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 246 Issued at 0030Z on 03 Sep 2014
+Report compiled from data received at SWO on 02 Sep
+I.  Regions with Sunspots.  Locations Valid at 02/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2149 N09W89   283  0170 Dao  06   04 Beta
+2150 S13W73   267  0060 Hax  02   01 Alpha
+2151 S08W62   255  0080 Hax  02   02 Alpha
+2152 S16W12   206  0230 Eac  11   27 Beta-Gamma
+2153 S10W38   232  0090 Dao  07   08 Beta
+2154 S18E36   157  0020 Cro  01   03 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 02/2400Z Sep
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 03 Sep to 05 Sep
+Nmbr Lat    Lo
+2139 N16    069

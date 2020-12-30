@@ -1,0 +1,23 @@
+:Product: 1104SRS.txt
+:Issued: 2015 Nov 04 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 308 Issued at 0030Z on 04 Nov 2015
+Report compiled from data received at SWO on 03 Nov
+I.  Regions with Sunspots.  Locations Valid at 03/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2443 N06E03   314  0560 Fkc  17   52 Beta-Delta
+2445 N16W69   026  0200 Eac  11   10 Beta-Delta
+2447 N03E23   295  0020 Cro  02   03 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 03/2400Z Nov
+Nmbr  Location  Lo
+2439  N16W87   046
+2441  N15W46   005
+2442  N16W76   035
+2444  S04W14   333
+2446  N15W31   350
+II. Regions Due to Return 04 Nov to 06 Nov
+Nmbr Lat    Lo
+None

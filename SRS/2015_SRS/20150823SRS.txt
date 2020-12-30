@@ -1,0 +1,19 @@
+:Product: 0823SRS.txt
+:Issued: 2015 Aug 23 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 235 Issued at 0030Z on 23 Aug 2015
+Report compiled from data received at SWO on 22 Aug
+I.  Regions with Sunspots.  Locations Valid at 22/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2403 S14E09   193  0400 Ekc  13   49 Beta-Gamma-Delta
+2404 N14W01   203  0020 Cro  04   03 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 22/2400Z Aug
+Nmbr  Location  Lo
+2401  S11W72   274
+II. Regions Due to Return 23 Aug to 25 Aug
+Nmbr Lat    Lo
+2393 N19    111
+2394 N12    095

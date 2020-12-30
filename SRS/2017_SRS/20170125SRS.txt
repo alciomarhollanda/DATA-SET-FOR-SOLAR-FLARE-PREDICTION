@@ -1,0 +1,20 @@
+:Product: 0125SRS.txt
+:Issued: 2017 Jan 25 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 25 Issued at 0030Z on 25 Jan 2017
+Report compiled from data received at SWO on 24 Jan
+I.  Regions with Sunspots.  Locations Valid at 24/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2626 N08W74   241  0010 Axx  01   02 Alpha
+2627 N06W25   192  0030 Cro  07   04 Beta
+2628 N13W05   172  0210 Eao  11   06 Beta
+2629 N15E59   109  0070 Cao  05   03 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 24/2400Z Jan
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 25 Jan to 27 Jan
+Nmbr Lat    Lo
+None

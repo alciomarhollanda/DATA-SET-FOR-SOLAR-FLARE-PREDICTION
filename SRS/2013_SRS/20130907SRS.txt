@@ -1,0 +1,22 @@
+:Product: 0907SRS.txt
+:Issued: 2013 Sep 07 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 250 Issued at 0030Z on 07 Sep 2013
+Report compiled from data received at SWO on 06 Sep
+I.  Regions with Sunspots.  Locations Valid at 06/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1836 N11W67   345  0130 Cao  08   05 Beta
+1837 S16W73   351  0110 Dao  09   05 Beta
+1838 S05E55   223  0020 Hsx  01   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 06/2400Z Sep
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 07 Sep to 09 Sep
+Nmbr Lat    Lo
+1830 S05    186
+1831 N14    184
+1832 N25    177
+1823 S10    159

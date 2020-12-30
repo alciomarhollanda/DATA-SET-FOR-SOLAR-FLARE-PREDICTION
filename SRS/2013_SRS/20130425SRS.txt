@@ -1,0 +1,22 @@
+:Product: 0425SRS.txt
+:Issued: 2013 Apr 25 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 115 Issued at 0030Z on 25 Apr 2013
+Report compiled from data received at SWO on 24 Apr
+I.  Regions with Sunspots.  Locations Valid at 24/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1726 N13W63   328  0840 Fkc  17   30 Beta-Gamma-Delta
+1727 N25W11   276  0030 Hax  02   03 Alpha
+1728 N19E48   217  0060 Hsx  02   01 Alpha
+1729 S14W22   287  0010 Bxo  03   06 Beta
+1730 S19E47   217  0010 Bxo  05   02 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 24/2400Z Apr
+Nmbr  Location  Lo
+1724  S26W74   339
+II. Regions Due to Return 25 Apr to 27 Apr
+Nmbr Lat    Lo
+1711 S17    172
+1714 N14    146

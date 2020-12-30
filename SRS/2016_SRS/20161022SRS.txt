@@ -1,0 +1,18 @@
+:Product: 1022SRS.txt
+:Issued: 2016 Oct 22 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 296 Issued at 0030Z on 22 Oct 2016
+Report compiled from data received at SWO on 21 Oct
+I.  Regions with Sunspots.  Locations Valid at 21/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2602 N06W67   046  0040 Cao  07   04 Beta
+2603 N13E04   335  0010 Bxo  05   05 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 21/2400Z Oct
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 22 Oct to 24 Oct
+Nmbr Lat    Lo
+None

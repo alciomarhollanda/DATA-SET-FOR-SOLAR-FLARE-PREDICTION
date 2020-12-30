@@ -1,0 +1,19 @@
+:Product: 0626SRS.txt
+:Issued: 2010 Jun 26 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 177 Issued at 0030Z on 26 Jun 2010
+Report compiled from data received at SWO on 25 Jun
+I.  Regions with Sunspots.  Locations Valid at 25/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1082 N26W77   307  0000 Axx  01   02 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 25/2400Z Jun
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 26 Jun to 28 Jun
+Nmbr Lat    Lo
+1079 S26    123
+1080 S24    105
+1081 N25    101

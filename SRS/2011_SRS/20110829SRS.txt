@@ -1,0 +1,25 @@
+:Product: 0829SRS.txt
+:Issued: 2011 Aug 29 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 241 Issued at 0030Z on 29 Aug 2011
+Report compiled from data received at SWO on 28 Aug
+I.  Regions with Sunspots.  Locations Valid at 28/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1275 N07W19   344  0010 Bxo  04   04 Beta
+1277 N17E25   300  0040 Hsx  01   01 Alpha
+1278 N16W81   049  0000 Axx  00   01 Alpha
+1279 N13E34   291  0080 Cso  03   03 Beta
+1280 N17W03   328  0010 Bxo  03   02 Beta
+1281 S21E65   260  0060 Cso  06   02 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 28/2400Z Aug
+Nmbr  Location  Lo
+1271  N16W96   062
+1272  S21W90   056
+1274  N17W37   003
+1276  N20W21   347
+II. Regions Due to Return 29 Aug to 31 Aug
+Nmbr Lat    Lo
+None

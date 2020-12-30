@@ -1,0 +1,18 @@
+:Product: 0402SRS.txt
+:Issued: 2010 Apr 02 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 92 Issued at 0030Z on 02 Apr 2010
+Report compiled from data received at SWO on 01 Apr
+I.  Regions with Sunspots.  Locations Valid at 01/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1057 N15W45   320  0190 Cao  02   03 Beta
+1059 S22E10   264  0050 Hsx  02   02 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 01/2400Z Apr
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 02 Apr to 04 Apr
+Nmbr Lat    Lo
+1054 N16    153

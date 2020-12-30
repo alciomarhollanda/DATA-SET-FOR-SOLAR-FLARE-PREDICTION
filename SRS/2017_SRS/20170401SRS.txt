@@ -1,0 +1,19 @@
+:Product: 0401SRS.txt
+:Issued: 2017 Apr 01 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 91 Issued at 0030Z on 01 Apr 2017
+Report compiled from data received at SWO on 31 Mar
+I.  Regions with Sunspots.  Locations Valid at 31/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2644 N12W37   055  0190 Eao  11   04 Beta
+2645 S10E01   017  0380 Ekc  12   29 Beta-Gamma
+2647 N11E01   017  0010 Bxo  02   02 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 31/2400Z Mar
+Nmbr  Location  Lo
+2643  N08W68   086
+II. Regions Due to Return 01 Apr to 03 Apr
+Nmbr Lat    Lo
+None

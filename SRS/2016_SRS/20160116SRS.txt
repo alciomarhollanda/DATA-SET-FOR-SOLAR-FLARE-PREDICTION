@@ -1,0 +1,19 @@
+:Product: 0116SRS.txt
+:Issued: 2016 Jan 16 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 16 Issued at 0030Z on 16 Jan 2016
+Report compiled from data received at SWO on 15 Jan
+I.  Regions with Sunspots.  Locations Valid at 15/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2480 N04W52   129  0130 Hsx  05   02 Alpha
+2483 N17W49   126  0090 Hsx  02   01 Alpha
+2485 N13E46   031  0030 Dro  06   05 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 15/2400Z Jan
+Nmbr  Location  Lo
+2484  N07W24   101
+II. Regions Due to Return 16 Jan to 18 Jan
+Nmbr Lat    Lo
+None

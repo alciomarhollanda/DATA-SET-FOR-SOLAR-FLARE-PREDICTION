@@ -1,0 +1,28 @@
+:Product: 0320SRS.txt
+:Issued: 2014 Mar 20 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 79 Issued at 0030Z on 20 Mar 2014
+Report compiled from data received at SWO on 19 Mar
+I.  Regions with Sunspots.  Locations Valid at 19/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2002 S18W86   328  0030 Cao  04   02 Beta
+2004 S10W59   301  0060 Dao  05   09 Beta
+2005 N13W23   265  0250 Hhx  03   01 Alpha
+2008 S11E17   225  0030 Cro  04   06 Beta
+2010 S15E39   203  0100 Dai  07   13 Beta
+2011 S07W36   278  0070 Dao  06   09 Beta
+2012 S09E47   195  0010 Axx  01   02 Alpha
+2013 N13E56   186  0030 Hsx  02   01 Alpha
+2014 S15E74   168  0050 Cso  05   04 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 19/2400Z Mar
+Nmbr  Location  Lo
+2007  N11W05   247
+2009  N14W44   286
+II. Regions Due to Return 20 Mar to 22 Mar
+Nmbr Lat    Lo
+1995 S17    133
+1990 S13    127
+1993 N17    118

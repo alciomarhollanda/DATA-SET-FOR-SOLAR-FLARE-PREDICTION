@@ -1,0 +1,24 @@
+:Product: 0406SRS.txt
+:Issued: 2014 Apr 06 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 96 Issued at 0030Z on 06 Apr 2014
+Report compiled from data received at SWO on 05 Apr
+I.  Regions with Sunspots.  Locations Valid at 05/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2021 S13W56   074  0310 Dki  08   28 Beta
+2022 N17W44   062  0000 Axx  01   01 Alpha
+2026 S11W02   020  0260 Eki  12   40 Beta
+2027 N12E04   014  0150 Cso  04   07 Beta
+2028 S08E10   008  0010 Axx  03   05 Alpha
+2029 N17W11   029  0070 Cso  06   03 Beta
+2030 N11E18   359  0130 Eao  11   18 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 05/2400Z Apr
+Nmbr  Location  Lo
+2024  N17W79   097
+II. Regions Due to Return 06 Apr to 08 Apr
+Nmbr Lat    Lo
+2005 N13    281
+2015 S12    250

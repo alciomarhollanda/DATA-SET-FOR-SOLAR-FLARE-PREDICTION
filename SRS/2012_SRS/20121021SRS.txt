@@ -1,0 +1,26 @@
+:Product: 1021SRS.txt
+:Issued: 2012 Oct 21 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 295 Issued at 0030Z on 21 Oct 2012
+Report compiled from data received at SWO on 20 Oct
+I.  Regions with Sunspots.  Locations Valid at 20/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1589 N12W70   266  0090 Cso  02   04 Beta
+1590 S31W53   249  0120 Cso  10   06 Beta
+1591 N07W34   230  0110 Hsx  03   01 Alpha
+1593 N15E09   187  0070 Dso  06   06 Beta
+1594 S27W03   199  0010 Bxo  02   02 Beta
+1596 N06E46   150  0280 Eko  11   06 Beta-Gamma
+1597 S22W58   254  0090 Dso  06   06 Beta
+1598 S09E82   114  0100 Hsx  02   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 20/2400Z Oct
+Nmbr  Location  Lo
+1592  N24W62   258
+1595  S14W83   279
+II. Regions Due to Return 21 Oct to 23 Oct
+Nmbr Lat    Lo
+1582 S13    102
+1587 S09    076

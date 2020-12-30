@@ -1,0 +1,28 @@
+:Product: 0118SRS.txt
+:Issued: 2012 Jan 18 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 18 Issued at 0030Z on 18 Jan 2012
+Report compiled from data received at SWO on 17 Jan
+I.  Regions with Sunspots.  Locations Valid at 17/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1396 N24W33   287  0030 Dro  04   17 Beta
+1398 N11W64   318  0010 Bxo  01   03 Beta
+1399 S23E29   225  0020 Hrx  02   01 Alpha
+1401 N18E38   216  0480 Ekc  13   18 Beta-Gamma
+1402 N28E40   214  0630 Eko  11   07 Beta-Gamma
+1403 S19E02   252  0010 Bxo  03   05 Beta
+1404 N11W42   296  0010 Bxo  03   03 Beta
+1405 N13E51   203  0050 Hsx  01   01 Alpha
+1406 S23W55   309  0030 Dro  04   07 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 17/2400Z Jan
+Nmbr  Location  Lo
+1395  N20W58   312
+1397  S20W26   280
+1400  S13W45   299
+II. Regions Due to Return 18 Jan to 20 Jan
+Nmbr Lat    Lo
+1386 S18    163
+1390 N08    140

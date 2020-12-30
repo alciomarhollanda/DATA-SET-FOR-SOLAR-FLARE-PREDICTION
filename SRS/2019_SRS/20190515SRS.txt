@@ -1,0 +1,18 @@
+:Product: 0515SRS.txt
+:Issued: 2019 May 15 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 135 Issued at 0030Z on 15 May 2019
+Report compiled from data received at SWO on 14 May
+I.  Regions with Sunspots.  Locations Valid at 14/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2740 N08W67   309  0010 Axx  01   01 Alpha
+2741 N06W30   272  0160 Hsx  03   03 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 14/2400Z May
+Nmbr  Location  Lo
+None
+II. Regions Due to Return 15 May to 17 May
+Nmbr Lat    Lo
+None

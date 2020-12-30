@@ -1,0 +1,22 @@
+:Product: 0430SRS.txt
+:Issued: 2016 Apr 30 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 121 Issued at 0030Z on 30 Apr 2016
+Report compiled from data received at SWO on 29 Apr
+I.  Regions with Sunspots.  Locations Valid at 29/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2533 S02W50   183  0080 Hsx  02   01 Alpha
+2535 N06E02   131  0030 Cao  03   05 Beta
+2536 N16E16   117  0090 Dai  06   08 Beta
+2537 S09W77   210  0070 Dso  10   05 Beta
+2538 S04E07   126  0000 Axx  01   01 Alpha
+2539 N17E51   082  0030 Cao  02   02 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 29/2400Z Apr
+Nmbr  Location  Lo
+2534  N11W21   154
+II. Regions Due to Return 30 Apr to 02 May
+Nmbr Lat    Lo
+2530 N13    042

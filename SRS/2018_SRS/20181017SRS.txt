@@ -1,0 +1,18 @@
+:Product: 1017SRS.txt
+:Issued: 2018 Oct 17 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 290 Issued at 0030Z on 17 Oct 2018
+Report compiled from data received at SWO on 16 Oct
+I.  Regions with Sunspots.  Locations Valid at 16/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+None
+IA. H-alpha Plages without Spots.  Locations Valid at 16/2400Z Oct
+Nmbr  Location  Lo
+2724  S07W00   128
+2725  S10E18   112
+II. Regions Due to Return 17 Oct to 19 Oct
+Nmbr Lat    Lo
+2723 S08    017

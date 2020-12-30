@@ -1,0 +1,25 @@
+:Product: 0102SRS.txt
+:Issued: 2015 Jan 02 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 2 Issued at 0030Z on 02 Jan 2015
+Report compiled from data received at SWO on 01 Jan
+I.  Regions with Sunspots.  Locations Valid at 01/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2246 N19W69   108  0050 Hsx  02   01 Alpha
+2248 S19W42   081  0050 Hax  02   01 Alpha
+2251 S13W09   048  0140 Dao  09   06 Beta-Gamma
+2252 S20E11   028  0090 Hax  02   02 Alpha
+2253 S07E35   004  0460 Ekc  11   16 Beta-Gamma
+2254 S22W05   044  0020 Cro  04   04 Beta
+2255 S14E76   322  0060 Hax  03   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 01/2400Z Jan
+Nmbr  Location  Lo
+2245  N09W90   129
+2247  S19W60   099
+II. Regions Due to Return 02 Jan to 04 Jan
+Nmbr Lat    Lo
+2235 S08    286
+2239 N14    270

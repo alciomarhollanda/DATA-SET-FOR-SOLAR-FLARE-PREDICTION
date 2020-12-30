@@ -1,0 +1,22 @@
+:Product: 1207SRS.txt
+:Issued: 2012 Dec 07 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 342 Issued at 0030Z on 07 Dec 2012
+Report compiled from data received at SWO on 06 Dec
+I.  Regions with Sunspots.  Locations Valid at 06/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1621 N16W83   019  0010 Axx  02   02 Alpha
+1623 N08W47   342  0090 Dso  05   04 Beta
+1625 N12W49   344  0020 Hsx  02   02 Alpha
+1628 N09E51   244  0010 Axx  01   01 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 06/2400Z Dec
+Nmbr  Location  Lo
+1626  N11W02   298
+1627  S16W23   319
+II. Regions Due to Return 07 Dec to 09 Dec
+Nmbr Lat    Lo
+1619 N13    189
+1616 N19    179

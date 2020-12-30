@@ -1,0 +1,22 @@
+:Product: 1229SRS.txt
+:Issued: 2013 Dec 29 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 363 Issued at 0030Z on 29 Dec 2013
+Report compiled from data received at SWO on 28 Dec
+I.  Regions with Sunspots.  Locations Valid at 28/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1931 S15W58   287  0140 Hsx  03   01 Alpha
+1934 S18W38   267  0160 Esi  13   15 Beta-Gamma-Delta
+1936 S17E06   223  0140 Eac  13   21 Beta-Gamma
+1937 S12E33   196  0010 Bxo  06   05 Beta
+1938 S12E50   179  0120 Hax  03   03 Alpha
+IA. H-alpha Plages without Spots.  Locations Valid at 28/2400Z Dec
+Nmbr  Location  Lo
+1929  S12W86   315
+1935  S06W23   252
+II. Regions Due to Return 29 Dec to 31 Dec
+Nmbr Lat    Lo
+1927 S26    112

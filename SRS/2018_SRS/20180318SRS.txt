@@ -1,0 +1,17 @@
+:Product: 0318SRS.txt
+:Issued: 2018 Mar 18 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 77 Issued at 0030Z on 18 Mar 2018
+Report compiled from data received at SWO on 17 Mar
+I.  Regions with Sunspots.  Locations Valid at 17/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+2702 N21W47   112  0010 Bxo  03   05 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 17/2400Z Mar
+Nmbr  Location  Lo
+2701  S12W36   101
+II. Regions Due to Return 18 Mar to 20 Mar
+Nmbr Lat    Lo
+None

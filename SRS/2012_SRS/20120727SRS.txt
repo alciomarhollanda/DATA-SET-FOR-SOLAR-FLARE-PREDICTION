@@ -1,0 +1,24 @@
+:Product: 0727SRS.txt
+:Issued: 2012 Jul 27 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 209 Issued at 0030Z on 27 Jul 2012
+Report compiled from data received at SWO on 26 Jul
+I.  Regions with Sunspots.  Locations Valid at 26/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+1526 S17W14   266  0020 Cro  04   03 Beta
+1528 N17E25   227  0040 Cso  02   03 Beta
+1529 S11E30   222  0080 Hsx  02   02 Alpha
+1530 S19E40   212  0140 Cso  05   03 Beta
+1531 N15W59   309  0020 Cro  02   03 Beta
+1532 S20E67   185  0060 Cao  02   03 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 26/2400Z Jul
+Nmbr  Location  Lo
+1524  S17W71   323
+1525  S21W72   324
+1527  N27E25   227
+II. Regions Due to Return 27 Jul to 29 Jul
+Nmbr Lat    Lo
+None
