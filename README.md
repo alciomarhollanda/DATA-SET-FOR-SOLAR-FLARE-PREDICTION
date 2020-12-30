@@ -4,7 +4,6 @@
 It is known that solar flares can affect the near-Earth space, 
 incurring in consequences for radio communications. Therefore, 
 there is a need to research systems for monitoring solar events. 
-This article presents a data set which can be used in the analysis of such events. 
 This data set originated from a set of records from magnetic 
 attributes and solar flare data. In order to create this data set, 
 authors used the SunPy library which provided access to data from the 
