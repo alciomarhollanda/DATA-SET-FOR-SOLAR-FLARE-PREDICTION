@@ -1,5 +1,5 @@
 
-<h1 align="center">DATA SET FOR SOLAR FLARE PREDICTION</h1>
+<h1 align="center"> PYTHON SCRIPT TO CREATE DATA SET FOR SOLAR FLARE PREDICTION</h1>
 
 It is known that solar flares can affect the near-Earth space, 
 incurring in consequences for radio communications. Therefore, 
