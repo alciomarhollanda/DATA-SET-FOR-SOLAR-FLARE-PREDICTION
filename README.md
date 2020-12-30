@@ -1,3 +1,6 @@
+
+<h1 align="center">DATA SET FOR SOLAR FLARE PREDICTION</h1>
+
 It is known that solar flares can affect the near-Earth space, 
 incurring in consequences for radio communications. Therefore, 
 there is a need to research systems for monitoring solar events. 
@@ -11,9 +14,15 @@ the period between may, 2010 and December, 2019. The collected data were stored 
 This data set can be used to support the research of solar flare 
 forecasting, as well as to be compared to other data sets or expanded with new attributes.
 
-Installing sunpy using Miniconda
+
+<a href="https://docs.sunpy.org/en/stable/guide/installation/index.html">🔗 Installing sunpy using Miniconda</a>
+
+
+```bash
 
 conda config --add channels conda-forge
 conda config --set channel_priority strict
 
 conda install sunpy
+
+```
