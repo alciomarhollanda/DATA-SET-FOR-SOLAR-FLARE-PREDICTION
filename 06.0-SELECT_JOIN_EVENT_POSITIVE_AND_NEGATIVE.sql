@@ -8,6 +8,7 @@ SELECT
        HMI.NOAA_AR,
        HMI.QUALITY,
        SRS.Longitude,
+       SRS.Latitude,
        HMI.TOTUSJH,
        CL.TOTBSQ,
        HMI.TOTPOT,
@@ -20,7 +21,19 @@ SELECT
        HMI.MEANPOT,
        HMI.R_VALUE,
        CL.EPSZ,
-       HMI.SHRGT45
+       HMI.SHRGT45,
+       HMI.MEANSHR,
+       HMI.MEANGAM,
+       HMI.MEANGBT,
+       HMI.MEANGBZ,
+       HMI.MEANGBH,
+       HMI.MEANJZH,
+       CL.TOTFY,
+       HMI.MEANJZD,
+       HMI.MEANALP,
+       CL.TOTFX,
+       CL.EPSY,
+       CL.EPSX
 FROM [04_EVENT_POSITIVE_WITH_HMI] AS HMI
 INNER JOIN [02_CGEM_LORENTZ] AS CL ON CL.T_REC = HMI.T_REC AND CL.HARPNUM = HMI.HARPNUM and CL.NOAA_AR = HMI.NOAA_AR
 INNER JOIN [01_GOES_SRS] AS SRS ON SRS.issued = date(HMI.start_time) and SRS.Number = HMI.noaa_active_region
@@ -43,6 +56,7 @@ SELECT
        HMI.NOAA_AR,
        HMI.QUALITY,
        SRS.Longitude,
+       SRS.Latitude,   
        HMI.TOTUSJH,
        CL.TOTBSQ,
        HMI.TOTPOT,
@@ -55,7 +69,19 @@ SELECT
        HMI.MEANPOT,
        HMI.R_VALUE,
        CL.EPSZ,
-       HMI.SHRGT45
+       HMI.SHRGT45,
+       HMI.MEANSHR,
+       HMI.MEANGAM,
+       HMI.MEANGBT,
+       HMI.MEANGBZ,
+       HMI.MEANGBH,
+       HMI.MEANJZH,
+       CL.TOTFY,
+       HMI.MEANJZD,
+       HMI.MEANALP,
+       CL.TOTFX,
+       CL.EPSY,
+       CL.EPSX
        
 FROM [05_EVENT_NEGATIVE_WITH_HMI]  AS HMI
     INNER JOIN [02_CGEM_LORENTZ] AS CL ON CL.T_REC = HMI.T_REC AND CL.HARPNUM = HMI.HARPNUM and CL.NOAA_AR = HMI.NOAA_AR

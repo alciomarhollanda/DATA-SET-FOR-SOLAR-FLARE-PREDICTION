@@ -44,6 +44,14 @@ def getSQL_NOT_FLARE(startDateString, endDateString, rows):
     MEANPOT,
     R_VALUE,
     SHRGT45,
+    MEANSHR,
+    MEANGAM,
+    MEANGBT,
+    MEANGBZ,
+    MEANGBH,
+    MEANJZH,
+    MEANJZD,
+    MEANALP,
     NOAA_AR,
     NOAA_NUM,
     NOAA_ARS,
@@ -106,4 +114,3 @@ def getNotFlare():
 getNotFlare()
 
 
-# https://stackoverflow.com/questions/283645/python-list-in-sql-query-as-parameter

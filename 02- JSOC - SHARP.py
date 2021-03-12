@@ -20,7 +20,8 @@ def get_Hmi_sharp():
         dateString = startDateString+'-'+endDateString
         print(dateString)
 
-        variable = 'T_REC,HARPNUM,TOTUSJH,TOTPOT,TOTUSJZ,ABSNJZH,SAVNCPP,USFLUX,AREA_ACR,MEANPOT,R_VALUE,SHRGT45,NOAA_AR,NOAA_NUM,NOAA_ARS,QUALITY'
+        # variable = 'T_REC,HARPNUM,TOTUSJH,TOTPOT,TOTUSJZ,ABSNJZH,SAVNCPP,USFLUX,AREA_ACR,MEANPOT,R_VALUE,SHRGT45,NOAA_AR,NOAA_NUM,NOAA_ARS,QUALITY'
+        variable = 'T_REC,HARPNUM,TOTUSJH,TOTPOT,TOTUSJZ,ABSNJZH,SAVNCPP,USFLUX,AREA_ACR,MEANPOT,R_VALUE,SHRGT45,MEANSHR,MEANGAM,MEANGBT,MEANGBZ,MEANGBH,MEANJZH,MEANJZD,MEANALP,NOAA_AR,NOAA_NUM,NOAA_ARS,QUALITY'
         df = c.query('hmi.sharp_720s[]['+dateString+']', key=variable)
 
         if(df.size == 0):
@@ -45,7 +46,7 @@ def get_cgemLorentz():
         dateString = startDateString+'-'+endDateString
         print(dateString)
 
-        variable = 'HARPNUM, T_REC, TOTFZ, TOTBSQ, EPSZ, QUALITY, NOAA_ARS, NOAA_AR, NOAA_NUM'
+        variable = 'HARPNUM, T_REC, TOTBSQ, TOTFZ, EPSZ, TOTFY, TOTFX, EPSY, EPSX, QUALITY, NOAA_ARS, NOAA_AR, NOAA_NUM'
         df = c.query('cgem.lorentz[]['+dateString+']', key=variable)
 
         if(df.size == 0):
@@ -55,8 +56,6 @@ def get_cgemLorentz():
 
         conn = sqlite3.connect('HMI_SHARP_SWPC_FINAL.db')
         df.to_sql('02_CGEM_LORENTZ', conn, if_exists='append', index=False)
-        #nameFile = "All_hmi.sharp_720s.csv"
-        #df.to_csv(nameFile, sep=';', encoding='utf-8', header=false,index=False, mode='a')
 
 # start
 
